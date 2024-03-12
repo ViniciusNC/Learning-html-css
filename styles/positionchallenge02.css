@@ -1,0 +1,53 @@
+body{
+  height: 3000px;
+}
+
+div{
+  font-family: Arial, Helvetica, sans-serif
+}
+
+
+.sidebar1{
+  background-color: rgb(33, 33, 33);
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sidebar2{
+  background-color: rgb(55, 55, 55);
+  position: fixed;
+  left: 90px;
+  width: 150px;
+  top: 0;
+  bottom: 0;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.picture{
+  margin-bottom: 10px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 70px;
+
+}
+
+.info{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.canais{
+  color: lightgray;
+  margin-bottom: 15px;
+  
+}
