@@ -1,1 +1,1 @@
-Here is where I studie the basics from HTML and CSS
+Here is where I studied the basics from HTML and CSS
